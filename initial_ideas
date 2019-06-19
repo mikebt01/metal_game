@@ -7,7 +7,7 @@ Current thinking is:
   
 metals to use:
   Iron = Pull (need objects for this to apply to)
-  Steel = Push
+  Steel = Push (+ coins as ammo) heavy ammo = more used but higher damage
   Tin = see more (should most of level be hard to see?) (sounds louder)
   Pewter = move faster (be stronger?)
   Copper = become harder to see (by enemies, lower radius of detection)
@@ -23,7 +23,7 @@ metals to use:
  
  Need lots of images, (crack out paint and 8-bit art)
  
- 2D top down, or 2d side view (terraria-esque)
+ 2D top down, or 2d side view (terraria-esque) both?
   
  customisable loadout of metals pre-level (later implementation)
  different characters with strengths/ weaknesses
