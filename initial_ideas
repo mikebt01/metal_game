@@ -1,0 +1,30 @@
+Aim is to create a top down game that uses ingestion of different metals to bypass challlenges. 
+Lots of inspiration from mistborn.
+Current thinking is:
+  Need player controlled character
+  limited amount of consumable metals
+  challenges require effcient use of metals to overcome
+  
+metals to use:
+  Iron = Pull (need objects for this to apply to)
+  Steel = Push
+  Tin = see more (should most of level be hard to see?) (sounds louder)
+  Pewter = move faster (be stronger?)
+  Copper = become harder to see (by enemies, lower radius of detection)
+  bronze = able to see enemies easier
+  Aluminium = remove reserves? not sure if needed
+  Duralumin = enhance next metal used (possibly implement another wasy)
+  
+ metals omitted arent really relevant to game (emotions etc)
+ 
+ need a range of 2D challenges, starter ones can be tutorials on the different metals
+ 
+ need maps + interaction
+ 
+ Need lots of images, (crack out paint and 8-bit art)
+ 
+ 2D top down, or 2d side view (terraria-esque)
+  
+ customisable loadout of metals pre-level (later implementation)
+ different characters with strengths/ weaknesses
+ 
